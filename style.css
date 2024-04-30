@@ -9,9 +9,12 @@ body {
 }
 
 .main{
-    border: 1px solid black;
-    padding: 30px;
-    
+    border: 1px solid #1abc9c;
+    padding: 30px;   
+}
+
+.main h2 {
+    background-color: #415A5A;
 }
 
 .row {
@@ -34,4 +37,15 @@ body {
     flex: 80%;
     background-color: #fff;
     padding: 20px;
+}
+
+hr {
+    border: 3px solid #1abc9c;
+    
+}
+
+.footer{
+    padding: 20px;
+    text-align: center;
+    color: #ddd;
 }
