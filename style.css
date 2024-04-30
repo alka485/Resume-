@@ -15,6 +15,7 @@ body {
 
 .main h2 {
     background-color: #415A5A;
+    color:#1abc9c
 }
 
 .container{
@@ -36,6 +37,10 @@ img{
     flex: 20%;
     background-color: #415A5A;
     padding: 20px;
+}
+
+.side p {
+    color: #1abc9c;
 }
 
 .main{
