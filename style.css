@@ -24,7 +24,12 @@ body {
 
 .image {
     width: 100%;
-    padding: 20px;
+    padding: 10px;
+    
+}
+
+img{
+    border-radius: 50%;
 }
 
 .side {
